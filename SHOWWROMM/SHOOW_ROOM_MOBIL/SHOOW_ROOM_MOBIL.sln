@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHOOW_ROOM_MOBIL", "SHOOW_ROOM_MOBIL\SHOOW_ROOM_MOBIL.csproj", "{A60D170B-76EA-4EF5-9332-0F19704D16E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60D170B-76EA-4EF5-9332-0F19704D16E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60D170B-76EA-4EF5-9332-0F19704D16E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60D170B-76EA-4EF5-9332-0F19704D16E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60D170B-76EA-4EF5-9332-0F19704D16E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D49C86-AF52-4B81-A749-4FF1D21CA928}
+	EndGlobalSection
+EndGlobal
